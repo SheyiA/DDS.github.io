@@ -1,0 +1,347 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 135px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 20px auto 10px;
+}.u-block-5efe-2 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-block-5efe-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-5efe-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-2-1 {
+  background-image: url("images/pizzastore1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-1 .u-image-1 {
+  min-height: 694px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/pizzastore1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 3.75rem;
+  letter-spacing: 4px;
+  font-weight: 700;
+  margin: 266px auto 0;
+}
+
+.u-section-2-1 .u-text-2 {
+  font-style: italic;
+  margin: -18px 909px 0 138px;
+}
+
+.u-section-2-1 .u-icon-1 {
+  font-size: 1.8334em;
+}
+
+.u-section-2-1 .u-text-3 {
+  width: 736px;
+  font-style: italic;
+  margin: -35px auto 0;
+}
+
+.u-section-2-1 .u-text-4 {
+  margin: -31px 202px 0 837px;
+}
+
+.u-section-2-1 .u-icon-2 {
+  font-size: 2.4445em;
+}
+
+.u-section-2-1 .u-text-5 {
+  margin: -11px 17px 60px -17px;
+}
+
+.u-section-2-1 .u-icon-3 {
+  font-size: 1.6667em;
+}
+
+.u-section-2-1 .u-icon-4 {
+  font-size: 1.6667em;
+}
+
+.u-section-2-1 .u-icon-5 {
+  font-size: 1.6667em;
+}
+
+.u-section-2-1 .u-icon-6 {
+  font-size: 1.6667em;
+}
+
+.u-section-2-1 .u-icon-7 {
+  font-size: 1.6667em;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-1 .u-image-1 {
+    min-height: 646px;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    margin-right: 809px;
+    margin-left: 38px;
+  }
+
+  .u-section-2-1 .u-text-4 {
+    margin-right: 102px;
+    margin-left: 737px;
+  }
+
+  .u-section-2-1 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-1 .u-text-2 {
+    margin-right: 627px;
+    margin-left: 0;
+  }
+
+  .u-section-2-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 720px;
+  }
+
+  .u-section-2-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 619px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-1 .u-text-2 {
+    margin-right: 447px;
+  }
+
+  .u-section-2-1 .u-text-3 {
+    width: 540px;
+  }
+
+  .u-section-2-1 .u-text-4 {
+    margin-left: 439px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-1 .u-image-1 {
+    min-height: 746px;
+  }
+
+  .u-section-2-1 .u-text-1 {
+    width: auto;
+    margin-top: 133px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2-1 .u-text-2 {
+    width: auto;
+    margin-top: 0;
+    margin-right: 257px;
+    margin-left: -11px;
+  }
+
+  .u-section-2-1 .u-text-3 {
+    width: auto;
+    margin-top: 0;
+  }
+
+  .u-section-2-1 .u-text-4 {
+    width: auto;
+    margin-top: -40px;
+    margin-right: 21px;
+    margin-left: 218px;
+  }
+
+  .u-section-2-1 .u-text-5 {
+    width: auto;
+    margin-top: -1px;
+  }
+}
+
+ .u-section-2-2 {
+  background-image: url("images/basketballcamp1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-2 .u-image-1 {
+  min-height: 694px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/basketballcamp1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2-2 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 3.75rem;
+  letter-spacing: 4px;
+  font-weight: 700;
+  margin: 266px auto 0;
+}
+
+.u-section-2-2 .u-text-2 {
+  font-style: italic;
+  margin: -26px 929px 0 118px;
+}
+
+.u-section-2-2 .u-icon-1 {
+  font-size: 1.8334em;
+}
+
+.u-section-2-2 .u-text-3 {
+  font-style: italic;
+  margin: -27px 202px 0 190px;
+}
+
+.u-section-2-2 .u-text-4 {
+  margin: -22px 173px 0 866px;
+}
+
+.u-section-2-2 .u-icon-2 {
+  font-size: 2.4445em;
+}
+
+.u-section-2-2 .u-text-5 {
+  margin: 8px 17px 60px -17px;
+}
+
+.u-section-2-2 .u-icon-3 {
+  font-size: 1.6667em;
+}
+
+.u-section-2-2 .u-icon-4 {
+  font-size: 1.6667em;
+}
+
+.u-section-2-2 .u-icon-5 {
+  font-size: 1.6667em;
+}
+
+.u-section-2-2 .u-icon-6 {
+  font-size: 1.6667em;
+}
+
+.u-section-2-2 .u-icon-7 {
+  font-size: 1.6667em;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2-2 .u-image-1 {
+    min-height: 646px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    margin-right: 829px;
+    margin-left: 18px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    width: 736px;
+    margin-left: 90px;
+    margin-right: 102px;
+  }
+
+  .u-section-2-2 .u-text-4 {
+    margin-right: 73px;
+    margin-left: 766px;
+  }
+
+  .u-section-2-2 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2-2 .u-text-2 {
+    margin-right: 627px;
+    margin-left: 0;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 720px;
+  }
+
+  .u-section-2-2 .u-text-4 {
+    margin-right: 0;
+    margin-left: 619px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2-2 .u-text-2 {
+    margin-right: 447px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    width: 540px;
+  }
+
+  .u-section-2-2 .u-text-4 {
+    margin-left: 439px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2-2 .u-image-1 {
+    min-height: 746px;
+  }
+
+  .u-section-2-2 .u-text-1 {
+    font-size: 3rem;
+    width: auto;
+    margin-top: 96px;
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+
+  .u-section-2-2 .u-text-2 {
+    width: auto;
+    margin-top: 44px;
+    margin-right: 259px;
+    margin-left: -13px;
+  }
+
+  .u-section-2-2 .u-text-3 {
+    width: auto;
+    margin-top: -11px;
+    margin-left: 11px;
+    margin-right: 11px;
+  }
+
+  .u-section-2-2 .u-text-4 {
+    width: auto;
+    margin-top: -39px;
+    margin-left: 239px;
+  }
+
+  .u-section-2-2 .u-text-5 {
+    width: auto;
+    margin-top: 36px;
+  }
+}
